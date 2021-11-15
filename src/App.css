@@ -1,0 +1,19 @@
+.bg-image {
+  background-image: url(https://i.postimg.cc/13pssvxG/bg-image.png);
+}
+.backdrop {
+  backdrop-filter: blur(2px);
+}
+
+.modal > .close {
+  cursor: pointer;
+  position: absolute;
+  display: block;
+  padding: 2px 5px;
+  line-height: 20px;
+  right: -10px;
+  top: -10px;
+  font-size: 24px;
+  border-radius: 18px;
+  border: 1px solid #cfcece;
+}
