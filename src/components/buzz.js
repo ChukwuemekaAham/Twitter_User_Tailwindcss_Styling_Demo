@@ -13,7 +13,7 @@ const Buzz = () => {
 					<div class="ml-2 text-sm font-normal text-gray-600">@adamwathan · 14h</div>
 					<svg viewBox="0 0 20 20" fill="currentColor" class="ml-auto flex text-gray-600 w-4 h-4"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
 				</div>
-				<div class="text-sm">Got 20 chin-ups in one set for the first time ever tonight, has been a goal for 15 years 🙌🏻. Weight is 202 now, aiming for 185.</div>
+				<div class="text-sm">Got 20 chin-ups in one set for the first time ever tonight, has been a goal for 15 years 🙌🏻.</div>
 				<div class="mt-2 flex justify-around text-sm text-gray-600 cursor-pointer">
 					<div class="flex items-center flex-grow hover:text-blue-500">
 						<svg viewBox="0 0 24 24" class="h-4 w-4 fill-current"><g><path d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>
