@@ -8,7 +8,7 @@ const Agent = () => {
 
    
   <Popup
-      trigger={<button class="absolute right-10 bottom-10 w-10 my-1 rounded-full bg-blue-500 
+      trigger={<button class="fixed right-10 bottom-5 w-10 my-1 rounded-full bg-blue-500 
       hover:bg-blue-400 cursor-pointer p-2 text-white"><FontAwesomeIcon icon={faComment} /></button>}
       modal
       nested
